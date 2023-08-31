@@ -1,7 +1,7 @@
-[![Prasad Avaghan , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Prasad%20Avaghan%20)]()
-- 🌱 I’m a software developer who is spacialize in Full Stack Web Development
-- 👀 All of my projects are available at https://github.com/prasadavaghan
-- 💞️ Ask me about ReactJS , Javascript , Data structure , Algorithm , Node Js , Express and MangoDB
+[![Prasad Avaghan , Experienced Frontend Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Prasad%20Avaghan%20)]()
+- 🌱 I’m a software developer who is expereince in Frontend development.
+- 👀 Capable of working as a Full Stack Developer.
+- 💞️ Ask me about ReactJS, Angular , Javascript , Data structure , Algorithm , Node Js , Express and MangoDB
 - 📫 How to reach me contact prasadavaghan26@gmail.com
 
 <hr />
