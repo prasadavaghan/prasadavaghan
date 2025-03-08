@@ -135,7 +135,6 @@
 <hr />
 
 <h3> 📊 My Github Stats</h3>
-<a href="https://github.com/prasadavaghan/github-readme-activity-graph"><img alt="Arpit-Sachan-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prasadavaghan&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadavaghan&langs_count=4&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="prasadavaghan" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadavaghan&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="prasadavaghan" /></p>
